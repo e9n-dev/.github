@@ -55,6 +55,3 @@ This organization is an experiment in **AI-native development** using autonomous
 - Research and documentation
 - Task management and prioritization
 - Knowledge base maintenance
-
-See the [researcher agent](https://github.com/espennilsen/agents/tree/main/researcher) for
-one example of the agent setup.
